@@ -308,6 +308,11 @@ footer {
         width: 100%;
 
     }
+    nav {
+        background-color: aqua;
+        height: 30rem;
+    
+    }
 }
 
 
